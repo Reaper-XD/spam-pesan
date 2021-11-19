@@ -15,6 +15,7 @@ def main():
 =    (+)Youtube   : Reja Gaming       =
 =    (+)Facebook  : Rzaa Ajaa         =
 =    (+)Pesan     : Jangan Recode Ya  =
+=    (+)Pesan     : Gua Masih Noob    =
 =======================================
 ====> Coded By Reza <====
 > Welcome To Termux <
