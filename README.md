@@ -9,5 +9,5 @@ $pkg install git
 $pip install requests
 $git clone https://githun.com/GRCR4K3R/spam-pesan
 $cd spam-pesan
-$python kntl.py
+$python spam.py
 </code></pre>
